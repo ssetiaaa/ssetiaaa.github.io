@@ -4,7 +4,7 @@ title: "Setia Bikdeli"
 ---
 
 # Hi, I’m Setia 👋  
-**Physics student** interested in the intersection of **fundamental physics**, **mathematical methods**, and **computational modeling**.
+I'm a physics student interested in the intersection of **fundamental physics**, **mathematical methods**, and **computational modeling**.
 
 > This is my academic portfolio: a curated place for my **projects**, **research-style writeups**, and **selected coursework** — easy to link from my CV.
 
