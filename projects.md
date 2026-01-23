@@ -22,7 +22,7 @@ Here’s a curated list of projects with short write-ups, code, and (when availa
 - Derived the *maximum extractable work* formula in the strong-coupling regime and expressed correction terms via **irreversible** and **residual** free-energy penalties.
 - Worked through the variational minimizations that determine the optimal “switch-on” and “switch-off” Hamiltonians (stationarity conditions and existence of minima).
 - Carried out a perturbative expansion in coupling strength
-$`g`$
+`g`
 , obtaining leading-order corrections and interpreting them in terms of (generalized) covariance of the centered interaction.
 - **Critical reading / consistency checks:** identified and documented mismatches/implicit assumptions in the paper + supplementary material (e.g., covariance/Kubo-transform conventions and conditions needed for certain expansions/boundary assumptions).
 
@@ -42,7 +42,7 @@ $`g`$
 - Code: https://github.com/YOURUSERNAME/REPO_NAME
 
 **What I did**
-- Built a **two-layer network model**: a small-world “blue” layer with rewiring probability $p$ and mean degree $k_b$, plus a preferential-attachment “red” layer with parameter $m_r$ (long-range shortcuts).
+- Built a **two-layer network model**: a small-world “blue” layer with rewiring probability $p$ and mean degree `k_b`, plus a preferential-attachment “red” layer with parameter $m_r$ (long-range shortcuts).
 - Derived/used analytic expectations for structural properties (degree distribution regimes, clustering dependence on rewiring), then compared with numerically generated networks.
 - Implemented a **competing-spread process** (T and F) with tunable rates $\beta_T$,$\beta_F$, tracked time courses, final dominance $\Delta=T-F$, and “win probability” across many random initial seeds.
 - Quantified **seed sensitivity**: studied how initial-node degree, clustering, and distance affect outcomes using Pearson/Spearman correlations and conditional win-probability plots.
