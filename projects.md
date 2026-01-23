@@ -21,7 +21,9 @@ Here’s a curated list of projects with short write-ups, code, and (when availa
 - Reconstructed the operational framework (quenches, switch on/off interaction, equilibration) and derived the work expressions and isothermal-limit result (including why entropy production vanishes as the number of steps grows).
 - Derived the *maximum extractable work* formula in the strong-coupling regime and expressed correction terms via **irreversible** and **residual** free-energy penalties.
 - Worked through the variational minimizations that determine the optimal “switch-on” and “switch-off” Hamiltonians (stationarity conditions and existence of minima).
-- Carried out a perturbative expansion in coupling strength $g$, obtaining leading-order corrections and interpreting them in terms of (generalized) covariance of the centered interaction.
+- Carried out a perturbative expansion in coupling strength
+$g$
+, obtaining leading-order corrections and interpreting them in terms of (generalized) covariance of the centered interaction.
 - **Critical reading / consistency checks:** identified and documented mismatches/implicit assumptions in the paper + supplementary material (e.g., covariance/Kubo-transform conventions and conditions needed for certain expansions/boundary assumptions).
 
 **Takeaway**
