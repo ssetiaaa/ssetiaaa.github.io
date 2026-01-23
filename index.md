@@ -1,7 +1,7 @@
----
+
 layout: home
 title: "Setia Bikdeli"
----
+
 
 # Hi, I’m Setia 👋  
 **Physics student** interested in the intersection of **fundamental physics**, **mathematical methods**, and **computational modeling**.
