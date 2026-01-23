@@ -29,7 +29,7 @@ Here’s a curated list of projects with short write-ups, code, and (when availa
 
 ---
 
-### Finite-Bath Quantum Thermodynamics & Emergent Effective Temperatures
+### Competing Contagion on Multiplex Networks
 **Hook:** Research-style reports exploring how network structure and initial conditions shape competing spreading dynamics (T vs F) on a two-layer network that mixes **small-world locality** with **scale-free long-range shortcuts**, supported by simulations and statistical analysis over 1000-run batches.
 
 **Keywords:** complex networks, multiplex networks, small-world, Barabási–Albert, contagion dynamics, stochastic simulations, sensitivity to initial conditions  
