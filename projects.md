@@ -22,7 +22,7 @@ Here’s a curated list of projects with short write-ups, code, and (when availa
 - Derived the *maximum extractable work* formula in the strong-coupling regime and expressed correction terms via **irreversible** and **residual** free-energy penalties.
 - Worked through the variational minimizations that determine the optimal “switch-on” and “switch-off” Hamiltonians (stationarity conditions and existence of minima).
 - Carried out a perturbative expansion in coupling strength
-`g`
+$g$
 , obtaining leading-order corrections and interpreting them in terms of (generalized) covariance of the centered interaction.
 - **Critical reading / consistency checks:** identified and documented mismatches/implicit assumptions in the paper + supplementary material (e.g., covariance/Kubo-transform conventions and conditions needed for certain expansions/boundary assumptions).
 
@@ -54,13 +54,39 @@ Here’s a curated list of projects with short write-ups, code, and (when availa
 
 ---
 
-## Coursework projects (only the strongest ones)
-### Course Project — Title (Course Name)
-**Summary:** …  
-**Links:** notebook / code / report
+## Coursework Projects (selected)
 
-- Focus: …
-- Key technique: …
+### Feature Selection vs. Shapley Values: Concordance in Identifying Marker Genes in Gene Networks (Spring 2025)
+**Supervisors:** Dr. Mohammad Reza Rahimi Tabar; Dr. Lalen Haghverdi  
+**Collaborators:** Nargess Khorshidi, Amirhossein Movahedi
+
+Built a pipeline to identify cell-type marker genes in PBMC3K single-cell RNA-seq by scoring genes using a Shapley-value–based cluster-specificity metric and benchmarking against standard feature-selection baselines. Mapped top candidates onto STRING protein–protein interaction networks and prioritized markers using network-neighborhood centrality to highlight biologically influential genes.
+
+**Keywords:** single-cell RNA-seq, Shapley values, feature selection, marker genes, PPI networks, centrality  
+**Links:** Code: … | Report: … (optional)
+
+---
+
+### Simulation of Site and Bond Percolation on Networks (Fall 2024)
+**Supervisor:** Dr. Saman Moghimi Araghi  
+**Collaborator:** Fatemeh Abbasian
+
+Simulated and visualized site and bond percolation processes on multiple network families (e.g., small-world and other synthetic graphs), and compared qualitative changes in connectivity as occupation probability varies.
+
+**Keywords:** percolation, phase transitions, complex networks, simulation, visualization  
+**Links:** Code: … | Report: … (optional)
+
+---
+
+### Business Network Mapping for Economic Spillover Risk (Fall 2024)
+**Supervisor:** Dr. Saman Moghimi Araghi  
+**Collaborator:** Fatemeh Abbasian
+
+Conducted a graph-theoretic analysis of the global trade network to study risk propagation mechanisms. Estimated country-level risk transmission coefficients from regression results and proposed a matrix-based method to compute spillover effects, then applied it to assess systemic vulnerability.
+
+**Keywords:** economic networks, systemic risk, spillover, graph theory, matrix methods, regression  
+**Links:** Code: … | Report: … (optional)
+
 
 ---
 
