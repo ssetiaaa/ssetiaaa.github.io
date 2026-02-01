@@ -1,0 +1,16 @@
+{
+  "runs": 1000,
+  "L": 32,
+  "beta_T": 0.35,
+  "beta_F": 0.4,
+  "finished_runs": 1000,
+  "unfinished_runs": 0,
+  "used_finished_subset": true,
+  "mean_T": 381.03,
+  "std_T": 305.93263290449397,
+  "mean_F": 642.97,
+  "std_F": 305.93263290449397,
+  "pearson_deg": 0.33732818119076785,
+  "pearson_cl": 0.07512838869279949,
+  "pearson_dist": -0.012360879807159249
+}
