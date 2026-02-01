@@ -3,7 +3,7 @@ layout: page
 title: "Selected Coursework"
 ---
 
-A curated list of courses most relevant to my research interests, with short topic summaries and (when available) links to course pages or project materials.
+A curated list of courses most relevant to my research interests, with short topic summaries and (when available) links to course pages.
 
 ---
 
