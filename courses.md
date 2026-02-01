@@ -56,6 +56,7 @@ A curated list of courses most relevant to my research interests, with short top
 **Instructor:** Dr. Mohammad Reza Rahimi Tabar & Dr. Laleh Haghverdi
 
 **Summary (bio/complex-systems focus):** Modeling biological populations and interactions using dynamical-systems and statistical-physics tools: logistic growth, discrete population maps, predator–prey (Lotka–Volterra) dynamics, stability analysis (linearization, Lyapunov/LaSalle ideas), and bifurcations/complex behavior. Covered evolutionary self-organization (quasispecies mutation–selection dynamics, error thresholds; hypercycles) including spatial/stochastic dynamics via cellular automata. Additional modules introduced gene regulation/expression, CRISPR–Cas9 basics, and single-cell RNA-seq / Human Cell Atlas workflows (QC, normalization, feature selection, clustering).
+
 **Course project:** *Shapley-based marker gene discovery (PBMC3K)* — Scored genes by Shapley-value cluster specificity, compared to feature-selection baselines, and prioritized candidates using STRING PPI network neighborhoods.
 
 ---
