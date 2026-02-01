@@ -63,7 +63,7 @@ $g$
 Built a pipeline to identify cell-type marker genes in PBMC3K single-cell RNA-seq by scoring genes using a Shapley-value–based cluster-specificity metric and benchmarking against standard feature-selection baselines. Mapped top candidates onto STRING protein–protein interaction networks and prioritized markers using network-neighborhood centrality to highlight biologically influential genes.
 
 **Keywords:** single-cell RNA-seq, Shapley values, feature selection, marker genes, PPI networks, centrality  
-**Links:** [Code](projects/marker-genes-shapley/code) | [Report](projects/marker-genes-shapley/project Report GRN.pdf)
+**Links:** [Code](projects/marker-genes-shapley/code) | [Report](projects/marker-genes-shapley/project-Report-GRN.pdf)
 
 ---
 
@@ -74,7 +74,7 @@ Built a pipeline to identify cell-type marker genes in PBMC3K single-cell RNA-se
 Simulated and visualized site and bond percolation processes on multiple network families (e.g., small-world and other synthetic graphs), and compared qualitative changes in connectivity as occupation probability varies.
 
 **Keywords:** percolation, phase transitions, complex networks, simulation, visualization  
-**Links:** [Code](projects/percolation/code-for-first-project.ipynb) | [Report](projects/percolation/پروژه اول.pdf)
+**Links:** [Code](projects/percolation/code-for-first-project.ipynb) | [Report](projects/percolation/پروژه-اول.pdf)
 
 ---
 
