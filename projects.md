@@ -42,9 +42,9 @@ Here’s a curated list of projects with short write-ups, code, and (when availa
 - Code: https://github.com/YOURUSERNAME/REPO_NAME
 
 **What I did**
-- Built a **two-layer network model**: a small-world “blue” layer with rewiring probability $p$ and mean degree `k_b`, plus a preferential-attachment “red” layer with parameter $m_r$ (long-range shortcuts).
+- Built a **two-layer network model**: a small-world “blue” layer with rewiring probability $p$ and mean degree $k_b$ , plus a preferential-attachment “red” layer with parameter $m_r$ (long-range shortcuts).
 - Derived/used analytic expectations for structural properties (degree distribution regimes, clustering dependence on rewiring), then compared with numerically generated networks.
-- Implemented a **competing-spread process** (T and F) with tunable rates $\beta_T$,$\beta_F$, tracked time courses, final dominance $\Delta=T-F$, and “win probability” across many random initial seeds.
+- Implemented a **competing-spread process** (T and F) with tunable rates $\beta_T$, $\beta_F$, tracked time courses, final dominance $\Delta=T-F$, and “win probability” across many random initial seeds.
 - Quantified **seed sensitivity**: studied how initial-node degree, clustering, and distance affect outcomes using Pearson/Spearman correlations and conditional win-probability plots.
 - Performed parameter sweeps over $(k_b, m_r, p, \beta_T, \beta_F)$ and documented when outcomes are driven mainly by **hub access** vs. rate advantage.
 
