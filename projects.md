@@ -15,7 +15,7 @@ Here’s a curated list of projects with short write-ups, code, and (when availa
 **Tools:** LaTeX (weekly reports); extensive handwritten derivations (converted into a clean write-up)
 
 **Links**
-- 📄 Report (PDF): assets/reports/strong_coupling_corrections_qthermo.pdf
+- 📄 Report (PDF): projects/strong-coupling-qthermo/strong_coupling_corrections.pdf
 
 **What I did**
 - Reconstructed the operational framework (quenches, switch on/off interaction, equilibration) and derived the work expressions and isothermal-limit result (including why entropy production vanishes as the number of steps grows).
@@ -38,8 +38,8 @@ $g$
 **Tools:** Python (simulation + plots), LaTeX (weekly reports)
 
 **Links**
-- Reports (PDF folder): assets/reports/finite_bath_weekly_reports.pdf  <!-- or a folder link -->
-- Code: https://github.com/YOURUSERNAME/REPO_NAME
+- Reports (PDF folder): projects/multiplex-competing-spread/reports
+- Code: projects/multiplex-competing-spread/code
 
 **What I did**
 - Built a **two-layer network model**: a small-world “blue” layer with rewiring probability $p$ and mean degree $k_b$ , plus a preferential-attachment “red” layer with parameter $m_r$ (long-range shortcuts).
@@ -63,7 +63,7 @@ $g$
 Built a pipeline to identify cell-type marker genes in PBMC3K single-cell RNA-seq by scoring genes using a Shapley-value–based cluster-specificity metric and benchmarking against standard feature-selection baselines. Mapped top candidates onto STRING protein–protein interaction networks and prioritized markers using network-neighborhood centrality to highlight biologically influential genes.
 
 **Keywords:** single-cell RNA-seq, Shapley values, feature selection, marker genes, PPI networks, centrality  
-**Links:** Code: … | Report: … (optional)
+**Links:** Code: projects/marker-genes-shapley/code | Report: projects/marker-genes-shapley/project Report GRN.pdf
 
 ---
 
@@ -74,7 +74,7 @@ Built a pipeline to identify cell-type marker genes in PBMC3K single-cell RNA-se
 Simulated and visualized site and bond percolation processes on multiple network families (e.g., small-world and other synthetic graphs), and compared qualitative changes in connectivity as occupation probability varies.
 
 **Keywords:** percolation, phase transitions, complex networks, simulation, visualization  
-**Links:** Code: … | Report: … (optional)
+**Links:** Code: projects/percolation/code-for-first-project.ipynb | Report: projects/percolation/پروژه اول.pdf
 
 ---
 
@@ -85,9 +85,9 @@ Simulated and visualized site and bond percolation processes on multiple network
 Conducted a graph-theoretic analysis of the global trade network to study risk propagation mechanisms. Estimated country-level risk transmission coefficients from regression results and proposed a matrix-based method to compute spillover effects, then applied it to assess systemic vulnerability.
 
 **Keywords:** economic networks, systemic risk, spillover, graph theory, matrix methods, regression  
-**Links:** Code: … | Report: … (optional)
+**Links:** Report: projects/spillover-risk/Project2Report.pdf
 
 
 ---
 
-_Last updated: 2026-01-23_
+_Last updated: 2026-02-01_
