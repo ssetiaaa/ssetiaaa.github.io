@@ -38,8 +38,8 @@ $g$
 **Tools:** Python (simulation + plots), LaTeX (weekly reports)
 
 **Links**
-- Reports (PDF folder): projects/multiplex-competing-spread/reports
-- Code: projects/multiplex-competing-spread/code
+- Reports (PDF folder): [Reports](projects/multiplex-competing-spread/reports)
+- Code: [Code](projects/multiplex-competing-spread/code)
 
 **What I did**
 - Built a **two-layer network model**: a small-world “blue” layer with rewiring probability $p$ and mean degree $k_b$ , plus a preferential-attachment “red” layer with parameter $m_r$ (long-range shortcuts).
